@@ -13,11 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 - Enhancing my skills in data structures and algorithms
 
 ## 📫 How to reach me:
-- Email: [your-email@example.com](sumitthakur5499@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sumitthakur55)
-  - 📧 **Email**: [your-email@example.com](mailto:sumitthakur5499@gmail.com)
-- 🔗 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/sumitthakur55)
-- 🐦 **Twitter**: [@YourTwitterHandle](https://twitter.com/Sumitthakur_55)
+
+- 📧 **Email**: [sumitthakur5499@gmail.com](mailto:sumitthakur5499@gmail.com)
+- 🔗 **LinkedIn**: [sumitthakur55](https://www.linkedin.com/in/sumitthakur55)
+- 🐦 **Twitter**: [@Sumitthakur_55](https://twitter.com/Sumitthakur_55)
 
 ## 📊 GitHub Profile Views:
 ![Profile views](https://komarev.com/ghpvc/?username=SumitThakur-55&color=dc143c)
