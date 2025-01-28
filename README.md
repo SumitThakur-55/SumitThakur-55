@@ -13,12 +13,11 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 - Enhancing my skills in data structures and algorithms
 
 ## 📫 How to reach me:
-
 - 📧 **Email**: [sumitthakur5499@gmail.com](mailto:sumitthakur5499@gmail.com)
 - 🔗 **LinkedIn**: [sumitthakur55](https://www.linkedin.com/in/sumitthakur55)
 - 🐦 **Twitter**: [@Sumitthakur_55](https://twitter.com/Sumitthakur_55)
 
 ## 📊 GitHub Profile Views:
-![Profile views](https://komarev.com/ghpvc/?username=SumitThakur-55&color=dc143c)
+![Profile views](https://komarev.com/ghpvc/?username=SumitThakur-55&color=blueviolet)
 
 Feel free to browse my repositories, and let’s connect! 🙂
