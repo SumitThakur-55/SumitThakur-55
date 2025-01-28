@@ -13,10 +13,4 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 - Diving deeper into cloud technologies and DevOps
 - Enhancing my skills in data structures and algorithms
 
-## 💬 Ask Me About:
-- JavaScript, Node.js, and React
-- Web development best practices
-- Machine Learning basics
-- Open-source contributions
-
 Feel free to browse my repositories, and let’s connect! 🙂
