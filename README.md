@@ -1,4 +1,4 @@
-# Hi, I'm Sumit Thakur! 👋
+# Hi, I'm Sumit Thakur! 👋  <img src="https://komarev.com/ghpvc/?username=SumitThakur-55&color=blueviolet" alt="Profile views" style="float: right; margin-left: 10px;">
 
 Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast with a love for creating impactful projects. Here's a bit more about me:
 
@@ -12,12 +12,10 @@ Welcome to my GitHub profile! I'm a passionate developer and tech enthusiast wit
 - Diving deeper into cloud technologies and DevOps
 - Enhancing my skills in data structures and algorithms
 
-## 📫 How to reach me:
-- 📧 **Email**: [sumitthakur5499@gmail.com](mailto:sumitthakur5499@gmail.com)
-- 🔗 **LinkedIn**: [sumitthakur55](https://www.linkedin.com/in/sumitthakur55)
-- 🐦 **Twitter**: [@Sumitthakur_55](https://twitter.com/Sumitthakur_55)
-
-## 📊 GitHub Profile Views:
-![Profile views](https://komarev.com/ghpvc/?username=SumitThakur-55&color=blueviolet)
+## 💬 Ask Me About:
+- JavaScript, Node.js, and React
+- Web development best practices
+- Machine Learning basics
+- Open-source contributions
 
 Feel free to browse my repositories, and let’s connect! 🙂
